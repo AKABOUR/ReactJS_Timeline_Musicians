@@ -1,6 +1,7 @@
 {
   "name": "timeline",
   "version": "0.1.0",
+  "homepage": "http://AKABOUR.github.io/ReactJS_Timeline_Musicians",
   "private": true,
   "dependencies": {
     "@emotion/react": "^11.10.4",
@@ -29,7 +30,6 @@
     "test": "react-scripts test",
     "eject": "react-scripts eject"
   },
-  "homepage": "http://AKABOUR.github.io/ReactJS_Timeline_Musicians",
   "eslintConfig": {
     "extends": [
       "react-app",
